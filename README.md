@@ -24,9 +24,9 @@ Done! Now every new tab shows a different flag each day.
 
 Here’s how the Daily Flags new tab looks:
 
-![Screenshot 1](screenshots/Screenshot%202025-07-09%20181445.png)
+![Screenshot 1](Screenshot%202025-07-09%20181445.png)
 
-![Screenshot 2](screenshots/Screenshot%202025-07-09%20181518.png)
+![Screenshot 2](Screenshot%202025-07-09%20181518.png)
 
 
 ---
