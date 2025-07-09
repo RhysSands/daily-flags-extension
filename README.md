@@ -24,7 +24,7 @@ Done! Now every new tab shows a different flag each day.
 
 See screenshots below for how it looks.
 
-![Screenshot 1](screenshots/screenshot1.png)  
+![Screenshot 1](Screenshot 2025-07-09 181445.png)  
 ![Screenshot 2](screenshots/screenshot2.png)
 
 ---
