@@ -10,7 +10,9 @@ This is a custom Chrome extension that changes your new tab background every day
 ## 🔧 How to Install (Manual)
 
 
-1. Download this repository as a ZIP and unzip it
+1. 1. Download the ZIP file named daily-flags.zip and unzip it  
+   — or directly download the [extension ZIP file here](daily-flags.zip)
+
 2. Open Chrome and go to: `chrome://extensions/`
 3. Turn on **Developer mode** (top right)
 4. Click **Load unpacked**
