@@ -39,4 +39,4 @@ This project is open source under the [MIT License](LICENSE).
 
 ## ✨ Created by
 
-YOUR NAME
+Rhys Sands
